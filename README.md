@@ -59,4 +59,4 @@ Scrape information of all products from [Hugo Boss's website](https://www.hugobo
 
 ## Contributor
 
-- <del>Minh Tran (Me)</del> Duc Pham
+- <del>Minh Tran (Me)</del>  Duc Pham (Me)
