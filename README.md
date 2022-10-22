@@ -59,4 +59,4 @@ Scrape information of all products from [Hugo Boss's website](https://www.hugobo
 
 ## Contributor
 
--   Minh Tran (Me)
+- </s>  Minh Tran (Me) </s> Dat Nguyen
